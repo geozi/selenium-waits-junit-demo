@@ -56,8 +56,10 @@ The web elements tested with Selenium are the following:
 
 Element 1:
 ![bsq_elem1](https://github.com/user-attachments/assets/d72065e0-28bd-496b-8abb-92a538a76c16),
+
 Element 2:
 ![bsq_elem2](https://github.com/user-attachments/assets/22fb8e35-0305-496d-9665-01e3eb1421b6),
+
 Element 3:
 ![bsq_elem3](https://github.com/user-attachments/assets/a44b403b-4ad7-4b41-b8a6-b6e89c7eeabe)
 
@@ -67,7 +69,7 @@ Element 3:
 * Maximizing the browser window,
 * Finding a web element,
 * Clicking on a web element,
-* Hovering on a web element,
+* Typing in a web element,
 * Quitting the browser.
 
 ### Further documentation
