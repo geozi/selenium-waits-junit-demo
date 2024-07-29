@@ -66,10 +66,9 @@ Element 3:
 * Opening a web page,
 * Maximizing the browser window,
 * Finding a web element,
-* Calling the WebElement's click() and sendKeys() methods,
-* Use of the WebDriverWait's methods,
-* Using action chains with pause() and perform(),
-* Calling the WebDriver's quit() method,
+* Clicking on a web element,
+* Hovering on a web element,
+* Quitting the browser.
 
 ### Further documentation
 
